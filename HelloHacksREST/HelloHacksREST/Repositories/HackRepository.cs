@@ -32,6 +32,7 @@ namespace HelloREST.Repositories
         {
             if (_dbContextHack != null)
             {
+            // Begin transaction
                 try
                 {
                     Hack hackType =  new Hack();
@@ -58,6 +59,7 @@ namespace HelloREST.Repositories
         {
             if (_dbContextHack != null)
             {
+            // Begin transaction
                 try
                 {
                     var hackToModify = _dbContextHack.Hacks.Find(hack.Id);
@@ -83,6 +85,7 @@ namespace HelloREST.Repositories
         {
             if (_dbContextHack != null)
             {
+            // Begin transaction
                 try
                 {
                     var hackToDelete = _dbContextHack.Hacks.Find(Id);
