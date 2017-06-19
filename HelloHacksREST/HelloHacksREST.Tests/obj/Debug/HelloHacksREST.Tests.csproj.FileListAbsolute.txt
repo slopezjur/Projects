@@ -1,0 +1,200 @@
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\ApplicationInsights.config
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\csc.exe
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\csc.exe.config
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\csc.rsp
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\csi.exe
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\csi.exe.config
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\csi.rsp
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.AppContext.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Console.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Diagnostics.Process.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.IO.Compression.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.IO.Pipes.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Security.AccessControl.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Security.Claims.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Threading.Thread.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.ValueTuple.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Xml.XPath.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\vbc.exe
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\vbc.exe.config
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\vbc.rsp
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\HelloHacksREST.Tests.dll.config
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\HelloHacksREST.Tests.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\HelloHacksREST.Tests.pdb
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\HelloHacksREST.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Newtonsoft.Json.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Net.Http.Formatting.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Helpers.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Http.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Http.WebHost.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Mvc.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Razor.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.WebPages.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.Owin.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Optimization.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.Owin.Security.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Owin.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\EntityFramework.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Http.Owin.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\HelloHacksREST.pdb
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Newtonsoft.Json.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Net.Http.Formatting.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Helpers.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Http.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Http.WebHost.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Mvc.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Razor.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.WebPages.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.Owin.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Optimization.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.Owin.Security.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\EntityFramework.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Http.Owin.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\obj\Debug\HelloHacksREST.Tests.csprojResolveAssemblyReference.cache
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\obj\Debug\HelloHacksREST.Tests.dll
+M:\Dropbox\COMPARTIDO\SERGIO\Proyectos\HelloHacksREST\HelloHacksREST.Tests\obj\Debug\HelloHacksREST.Tests.pdb
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\ApplicationInsights.config
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\csc.exe
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\csc.exe.config
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\csc.rsp
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\csi.exe
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\csi.exe.config
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\csi.rsp
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.AppContext.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Console.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Diagnostics.Process.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.IO.Compression.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.IO.Pipes.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Security.AccessControl.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Security.Claims.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Threading.Thread.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.ValueTuple.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Xml.XPath.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\vbc.exe
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\vbc.exe.config
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\vbc.rsp
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\HelloHacksREST.Tests.dll.config
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\HelloHacksREST.Tests.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\HelloHacksREST.Tests.pdb
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\HelloHacksREST.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Http.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Razor.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Owin.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\EntityFramework.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Http.Owin.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\HelloHacksREST.pdb
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Http.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Razor.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\EntityFramework.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\bin\Debug\System.Web.Http.Owin.xml
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\obj\Debug\HelloHacksREST.Tests.csprojResolveAssemblyReference.cache
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\obj\Debug\HelloHacksREST.Tests.dll
+D:\Proyectos\Visual Studio\HelloHacksREST\HelloHacksREST.Tests\obj\Debug\HelloHacksREST.Tests.pdb

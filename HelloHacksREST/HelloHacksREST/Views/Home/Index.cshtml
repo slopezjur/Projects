@@ -1,0 +1,106 @@
+﻿
+@section scripts{
+    <script type="text/javascript">
+
+        $(function ()
+        {
+            $.getJSON('/api/hack', function (hacksJsonPayload)
+                {
+                    $(hacksJsonPayload).each(function(i, item)
+                    {
+                        $('#hacks').append('<li><a href="/api/Hack/ ' + item.Id + '">' + item.Id + ' ' + item.Name + '</a></li>');
+                    });
+                });
+        });
+
+        $('#saveHack').click(function () {
+            $.post("/api/hack",
+                  $("#saveHackForm").serialize(),
+                  function (value) {
+                      $('#hacks').append('<li>' + value.Name + '</li>');
+                  },
+                  "json"
+            );
+        });
+
+        function hackUpdate() {
+
+            var hack = new Object();
+
+            hack.id = $('#HackIdForUpdate').val();
+            hack.name = $('#HackNameForUpdate').val();
+            hack.description = $('#HackDescForUpdate').val();
+
+            $.ajax({
+                url: '/api/Hack/',
+                type: 'PUT',
+                dataType: 'json',
+                data: hack,
+                success: function (product) {
+                },
+                error: function (request, message, error) {
+                    handleException(request, message, error);
+                }
+            });
+        };
+
+        function hackDelete() {
+            var id = $('#HackIdForDelete').val();
+
+            $.ajax({
+                url: "/api/Hack/" + id,
+                type: 'DELETE',
+                success: function (product) {
+                },
+                error: function (request, message, error) {
+                    handleException(request, message, error);
+                }
+            });
+        };
+
+    </script>
+}
+
+<form id="saveHackForm" method="post">
+    <h3>Create a new Hack</h3>
+    <p>
+        <label for="hackName">Hack Name:</label>
+        <input type="text" name="Name" />
+    </p>
+    <p>
+        <label for="hackDescription">Hack Description:</label>
+        <input type="text" name="Description" />
+    </p>
+    <input type="button" id="saveHack" value="Save" />
+</form>
+
+<form id="updateHackForm" method="put">
+    <h3>Update Hack</h3>
+    <p>
+        <label for="hackId">Hack Id:</label>
+        <input type="text" name="Id" id="HackIdForUpdate"  />
+    </p>
+    <p>
+        <label for="hackName">Hack Name:</label>
+        <input type="text" name="Name" id="HackNameForUpdate" />
+    </p>
+    <p>
+        <label for="hackDescription">Hack Description:</label>
+        <input type="text" name="Description" id="HackDescForUpdate" />
+    </p>
+    <input type="button" value="Update" onclick='hackUpdate();' />
+</form>
+
+<form id="deleteHackForm" method="delete">
+    <h3>Delete Hack</h3>
+    <p>
+        <label for="hackId">Hack Id:</label>
+        <input type="text" name="Id" id="HackIdForDelete" />
+    </p>
+    <input type="button" value="Delete" onclick='hackDelete();' />
+</form>
+
+<div id="body">
+    <h3>List of Hacks:</h3>
+    <ul id="hacks"></ul>
+</div>
